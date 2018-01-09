@@ -1,0 +1,29 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 60px;
+}
+
+#foodForm {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 16px;
+}
+
+#foodButtons {
+    padding: 10px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+.btn {
+    padding: 10px;
+}
